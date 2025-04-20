@@ -3,7 +3,7 @@
 # Links 🔗
 [My Github Repository](https://github.com/mkunta1/medicalinsurance)
 
-[My Project Notebook](https://github.com/mkunta1/medicalinsurance)
+[My Project Notebook](https://github.com/mkunta1/medicalinsurance/blob/main/regression.ipynb)
 
 [My Peer Review](https://github.com/bware7/ml_regression_binware/blob/main/regression_binware.ipynb)
 
